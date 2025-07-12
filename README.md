@@ -22,7 +22,8 @@ A Next.js + React + TypeScript application to search Github users and view their
 
 1. **Add env:**
 
-   use your API Github access_token and add it to the GITHUB_ACCESS_TOKEN env variable
+   - Create .env file
+   - use your API Github access_token and add it to the GITHUB_ACCESS_TOKEN env variable
 
 2. **Install dependencies:**
 
