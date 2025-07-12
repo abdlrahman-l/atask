@@ -19,7 +19,12 @@ A Next.js + React + TypeScript application to search Github users and view their
 
 ## Getting Started
 
-1. **Install dependencies:**
+
+1. **Add env:**
+
+   use your API Github access_token and add it to the GITHUB_ACCESS_TOKEN env variable
+
+2. **Install dependencies:**
 
    ```bash
    pnpm install
@@ -27,7 +32,7 @@ A Next.js + React + TypeScript application to search Github users and view their
    npm install
    ```
 
-2. **Run the development server:**
+3. **Run the development server:**
 
    ```bash
    pnpm dev
